@@ -1,12 +1,14 @@
 ### 🐍 Conda 环境依赖清单 (ai)
 
-以下是当前环境 `C:\Users\lenovo\anaconda3\envs\ai` 的完整包列表，记录于 2026-01-14。
+以下是当前环境 `C:\Users\lenovo\anaconda3\envs\ai` 的完整包列表，由于安装的包较多,此处以markdown形式给出,只是终端内容的复制粘贴.
 
 ```bash
 # 激活环境
-conda activate ai
+(base) C:\Users\lenovo>conda activate ai
 
 # 当前环境安装包列表
+(ai) C:\Users\lenovo>conda list
+
 # packages in environment at C:\Users\lenovo\anaconda3\envs\ai:
 #
 # Name                      Version            Build                    Channel
